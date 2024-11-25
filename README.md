@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Eashan<br>- 👀 I’m interested in coding, gaming and tech<br>- 🌱 I’m currently learning Python, HTML and CSS<br>- 😄 Pronouns: He/Him<br>
+- 👋 Hi, I’m Eashan<br>- 👀 I’m interested in Coding, Gaming and Tech<br>- 🌱 I’m currently learning Python, HTML and CSS<br>- 😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
